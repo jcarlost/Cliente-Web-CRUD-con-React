@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# temas video
+
+- [43:00] estado para verificar cuando la tabla de datos es actualizada y ejecutar nuevamente consulta http: -
+https://www.youtube.com/watch?v=n4RhSCAE0OA
+
 ## Available Scripts
 
 In the project directory, you can run:
